@@ -99,7 +99,7 @@ We run all the experiments in `python 3.8`, see `requirements.txt` for the list 
 
 ## Bibtex reference
 
-If you find this code useful please consider to cite our paper:
+If you find this code useful please consider citing our paper:
 
 ```
 @inproceedings{cini2022filling,
